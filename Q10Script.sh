@@ -1,3 +1,4 @@
+echo "========Not Correct Code(Jugad)=============="
 echo "========Script for arithmetic operation in  Matrix=========="
 echo "Enter the option (a-e):"
 echo "(a) Addition"
