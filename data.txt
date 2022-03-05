@@ -1,5 +1,0 @@
-71723 Ram      Sen     70 72 75
-91924 Raghubir Yadav   82 73 80
-53425 Ram      Chauhan 93 81 86
-44917 Ratan    Yadav   95 79 91
-
