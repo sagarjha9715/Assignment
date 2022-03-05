@@ -1,0 +1,18 @@
+clear
+t=0
+echo "Enter a number:"
+read n
+echo "Menu"
+echo "    Even:E"
+echo "    Odd:O"
+echo "Enter E Or O"
+read choicwhile [ $n -ge 0 ]
+do
+t=`expr "$n % 2"`
+ if [["$t" -eq 0]]
+ then 
+   echo "$n" 
+ n=$(( $n - 1))
+ fi
+done
+
